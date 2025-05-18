@@ -13,7 +13,7 @@ Domino el framework Bootstrap para construir sitios web responsivos y elegantes 
 ### 🎨 Tailwind CSS
 Me encanta la flexibilidad y potencia de Tailwind CSS, que me permite crear interfaces únicas y personalizadas utilizando clases utilitarias. Gracias a Tailwind, puedo transformar un diseño desde el boceto hasta el código final, manteniendo la eficiencia y la consistencia visual.
 
-### ⚡ JavaScript
+### ⚡ React js
 JavaScript es el motor detrás de la interactividad en mis proyectos. Desarrollo funciones dinámicas, animaciones y lógica de negocio tanto en el frontend como en el backend, logrando aplicaciones web rápidas y atractivas.
 
 ---
@@ -46,5 +46,5 @@ JavaScript es el motor detrás de la interactividad en mis proyectos. Desarrollo
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,js,html,css" alt="Habilidades principales" />
+  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,react,js,html,css" alt="Habilidades principales" />
 </p>
